@@ -1,4 +1,6 @@
-﻿# Alibaba Cloud OSS SDK for C# 
+﻿This fork is adapted to work with Unity. Just put the sdk folder into unity project.
+
+# Alibaba Cloud OSS SDK for C# 
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 [![GitHub Version](https://badge.fury.io/gh/aliyun%2Faliyun-oss-csharp-sdk.svg)](https://badge.fury.io/gh/aliyun%2Faliyun-oss-csharp-sdk)
